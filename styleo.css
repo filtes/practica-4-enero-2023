@@ -8,6 +8,7 @@ body{
     display: block;
     border: 3px solid rgb(229, 234, 235);
     padding: 20px;
+    width: 100%;
 }
 
 .header{
@@ -130,7 +131,8 @@ body{
 .footer{
     background: rgb(0, 0, 0, 0.3);
     padding: 20px;
-     border: 3px solid rgb(229, 234, 235);
+    border: 3px solid rgb(229, 234, 235);
+    width: 97%;
 }
 .pie{
     background: rgb(0, 0, 0, 0.2);
@@ -139,4 +141,5 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
